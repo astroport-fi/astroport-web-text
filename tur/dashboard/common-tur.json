@@ -39,7 +39,7 @@
   "common-msg-al": "İşlem görüntüle",
   "common-msg-am": "Bağlantıyı kes",
   "common-msg-an": "Ödülleri sahiplen",
-  "common-msg-ao": "Disclaimer: you can only claim 4 positions (not tokens) in one transaction because of wallet limitations",*********
+  "common-msg-ao": "Uyarı: Cüzdan sınırlamaları nedeniyle bir işlemde yalnızca 4 pozisyon (token değil) talep edebilirsiniz",
   "common-msg-ap": "ASTRO ödülleriniz",
   "common-msg-aq": "1. Fazdan ASTRO",
   "common-msg-ar": "2. Fazdan ASTRO",
