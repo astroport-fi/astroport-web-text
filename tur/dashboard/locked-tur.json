@@ -1,10 +1,10 @@
 {
-  "locked-msg-a": "Unlockable Liquidity",
-  "locked-msg-b": "Claimable Rewards",
-  "locked-msg-c": "Fully Unlocks On",
-  "locked-msg-d": "My Locked LP Tokens from Phase 2: ASTRO-UST Bootstrapping pool",
-  "locked-msg-e": "Your ASTRO-UST LP tokens unlock linearly over 3 months after the end of the phase 2 deposit window.",
-  "locked-msg-f": "You didn't lock any positions.",
-  "locked-msg-g": "My Locked LP Tokens from Phase 1 : The Lockdrop",
-  "locked-msg-h": "Your lockdrop positions will unlock on the dates you specified when you made your deposit."
+  "locked-msg-a": "Çözülebilir Likidite",
+  "locked-msg-b": "Sahiplenebilir Ödüller",
+  "locked-msg-c": "Tamamen çözülme zamanı",
+  "locked-msg-d": "Faz 2: ASTRO-UST Bootstrap havuzundan gelen kilitli LP Tokenlarım",
+  "locked-msg-e": "ASTRO-UST LP tokenlarınız, Faz 2 yatırım penceresinin bitiminde, lineer olarak 3 ay içinde çözülür.",
+  "locked-msg-f": "Kilitli poziyonunuz yok.",
+  "locked-msg-g": "Faz 1: Lockdrop'tan gelen kilitli LP Tokenlarım",
+  "locked-msg-h": "Lockdrop pozisyonlarınız, yatırım yaptığınızda seçmiş olduğunuz tarihte çözülecektir."
 }
