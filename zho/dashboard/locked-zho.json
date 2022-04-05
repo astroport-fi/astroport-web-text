@@ -1,0 +1,10 @@
+{
+  "locked-msg-a": "可解锁的流动性",
+  "locked-msg-b": "可领取的奖励",
+  "locked-msg-c": "完全解锁",
+  "locked-msg-d": "我在第 2 阶段锁定的 LP 代币：ASTRO-UST 引导池",
+  "locked-msg-e": "您的 ASTRO-UST LP 代币在第 2 阶段存款结束后的 3 个月内线性解锁。",
+  "locked-msg-f": "你没有锁定任何仓位。",
+  "locked-msg-g": "我从第 1 阶段锁定的 LP 代币：",
+  "locked-msg-h": "您的锁定仓位将在您存款时指定的日期解锁。"
+}

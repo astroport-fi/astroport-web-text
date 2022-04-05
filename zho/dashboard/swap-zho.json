@@ -1,0 +1,14 @@
+{
+  "swap-msg-a": "价格影响",
+  "swap-msg-b": "流动性提供者费用",
+  "swap-msg-c": "滑点容差",
+  "swap-msg-d": "路由",
+  "swap-msg-e": "汇率",
+  "swap-msg-f": "最小获得量",
+  "swap-msg-g": "该数量包括您选择的最大滑点容差",
+  "swap-msg-h": "确认交换",
+  "swap-msg-i": "您将交易付出：",
+  "swap-msg-j": "您将交易获得：",
+  "swap-msg-k": "完成交换路由",
+  "swap-msg-l": "交换代币"
+}

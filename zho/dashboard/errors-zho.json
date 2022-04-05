@@ -1,0 +1,23 @@
+{
+  "errors-msg-a": "失败",
+  "errors-msg-b": "再试一次",
+  "errors-msg-c": "返回首页",
+  "errors-msg-d": "要接收的代币数量无效。",
+  "errors-msg-e": "两个金额都必须大于 0",
+  "errors-msg-f": "UST 不足以支付交易费用。",
+  "errors-msg-g": "钱包资产不足",
+  "errors-msg-h": "加载数据时出错",
+  "errors-msg-i": "必须在具有值的 Provider 内",
+  "errors-msg-j": "估算费用错误",
+  "errors-msg-k": "发生了一些错误",
+  "errors-msg-l": "从 {{token1Symbol}} 交换到 {{token2Symbol}} 失败",
+  "errors-msg-m": "领取奖励失败",
+  "errors-msg-n": "LP 代币解锁失败",
+  "errors-msg-o": "质押 LP 代币失败",
+  "errors-msg-p": "解锁 LP 代币失败",
+  "errors-msg-q": "为 {{token1Symbol}} 和 {{token2Symbol}} 提供流动性失败",
+  "errors-msg-r": "为 {{token1Symbol}} 和 {{token2Symbol}} 提取流动性失败",
+  "errors-msg-s": "请求超时。请再试一次。",
+  "errors-msg-t": "很抱歉，您没有足够的资金来完成此请求。当您有更多可用资金时，请再试一次。",
+  "errors-msg-u": "抱歉，指定的费用不足以支付此交易的费用。请再试一次。"
+}
