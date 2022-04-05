@@ -1,0 +1,12 @@
+{
+  "unlock-title-a": "解除质押LP代币s",
+  "unlock-title-b": "可领取的LP代币",
+
+  "unlock-msg-a": "您将解锁",
+  "unlock-msg-b": "解锁LP代币后，您可以：",
+  "unlock-msg-c": "在 “我的矿池” 下的 “矿池” 页面提现您的流动性",
+  
+  "unlock-msg-d": "或将您的LP代币质押入生成器以继续获得双重奖励",
+
+  "unlock-button-a": "确认解锁LP代币"
+}
