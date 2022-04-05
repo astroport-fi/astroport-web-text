@@ -1,14 +1,14 @@
 {
-  "swap-msg-a": "Price Impact",
-  "swap-msg-b": "Liquidity Provider Fee",
-  "swap-msg-c": "Slippage Tolerance",
-  "swap-msg-d": "Route",
-  "swap-msg-e": "Exchange Rate",
-  "swap-msg-f": "Minimum Received",
-  "swap-msg-g": "The amount includes the maximum slippage tolerance you selected",
-  "swap-msg-h": "Confirm Swap",
-  "swap-msg-i": "You are swapping from:",
-  "swap-msg-j": "You are swapping to:",
-  "swap-msg-k": "Complete Swap Route",
-  "swap-msg-l": "Swap Tokens"
+  "swap-msg-a": "Fiyat Etkisi",
+  "swap-msg-b": "Likidite Sağlama Ücreti",
+  "swap-msg-c": "Şaşma Yüzdesi",
+  "swap-msg-d": "Rota",
+  "swap-msg-e": "Takas Kuru",
+  "swap-msg-f": "Elde Edilecek Minimum",
+  "swap-msg-g": "Bu miktar seçtiğiniz en yüksek şaşma yüzdesini de içerir",
+  "swap-msg-h": "Takası Onayla",
+  "swap-msg-i": "Takasta Vereceğiniz:",
+  "swap-msg-j": "Takasta Alacağınız:",
+  "swap-msg-k": "Takas Rotasının Tamamı",
+  "swap-msg-l": "Tokenları Takasla"
 }
