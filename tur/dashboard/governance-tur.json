@@ -10,7 +10,7 @@
   "governance-msg-i": "Lehte oylar",
   "governance-msg-j": "Aleyhte oylar",
   "governance-msg-k": "Cüzdanda:",
-  "governance-msg-l": "Insufficient xASTRO to lock",****--**************
+  "governance-msg-l": "Yetersiz xASTRO bakiyesi",
   "governance-msg-m": "Bir teklif sunmak için cüzdanınızda yeterli xASTRO'nuz yok",
   "governance-msg-n": "Astro stake et",
   "governance-msg-o": "kopyala",
@@ -24,7 +24,7 @@
   "governance-msg-w": "Adresler",
   "governance-msg-x": "Kapat",
   "governance-msg-y": "Adresleri görüntüle",
-  "governance-msg-z": "Send LUNA that the Assembly contract holds to another address",------------------
+  "governance-msg-z": "Konsey kontratındaki LUNAyı başka adrese gönder",
   "governance-msg-aa": "Bombay fabrika sözleşmesindeki fee_address i terra olarak ayarlayın...",
   "governance-msg-ab": "Bombay fabrika sözleşmesindeki generator_address i terra olarak ayarlayın...",
   "governance-msg-ac": "aktif",
