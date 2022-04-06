@@ -1,7 +1,7 @@
 {
-  "errors-msg-a": "Hata aldı",
+  "errors-msg-a": "Başarısız oldu",
   "errors-msg-b": "Tekrar deneyin",
-  "errors-msg-c": "Ana sayfaya gei dön",
+  "errors-msg-c": "Ana sayfaya geri dön",
   "errors-msg-d": "Alınacak token miktarı geçersiz.",
   "errors-msg-e": "İki miktar da 0'dan büyük olmalıdır",
   "errors-msg-f": "UST bakiyesi işlem ücreti için yetersiz.",
@@ -17,7 +17,7 @@
   "errors-msg-p": "LP token staketen çekme başarısız oldu",
   "errors-msg-q": "{{token1Symbol}} ve {{token2Symbol}} çiftinde likidite sağlama başarısız oldu",
   "errors-msg-r": "{{token1Symbol}} ve {{token2Symbol}} çiftinde likidite çekme başarısız oldu",
-  "errors-msg-s": "Zamanaşımına uğradı. Lütfen tekrar deneyin.",
+  "errors-msg-s": "Zaman aşımına uğradı. Lütfen tekrar deneyin.",
   "errors-msg-t": "Üzgünüz, bu işlemi tamamlamak için yeterli bakiyeniz yok. Lütfen bakiye artırıp tekrar deneyin.",
   "errors-msg-u": "Üzgünüz, belirtilen işlem ücreti bu işlemi gerçekleştirmeye yetmedi. Lütfen tekrar deneyin."
 }
