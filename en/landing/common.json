@@ -1,27 +1,27 @@
 {
-  "error-return-home": "Return to the home page",
+  "error-return-home": "Return to the home page 返回主页",
 
-  "carousel-specs": "Astroport Specs",
-  "carousel-desc-a": "Core",
-  "carousel-desc-b": "Features",
-  "carousel-list-a": "Programmable liquidity",
-  "carousel-list-b": "All-new Rust code",
-  "carousel-list-c": "Oracle integration",
-  "carousel-list-d": "Easy dapp integration",
-  "carousel-link-a": "AUTONOMOUS",
-  "carousel-link-b": "OPEN-SOURCE",
-  "carousel-link-c": "DECENTRALIZED",
+  "carousel-specs": "Astroport Specs Astroport 规格",
+  "carousel-desc-a": "Core 核心",
+  "carousel-desc-b": "Features 功能",
+  "carousel-list-a": "Programmable liquidity 可编程的流动性",
+  "carousel-list-b": "All-new Rust code 全新 Rust 代码编",
+  "carousel-list-c": "Oracle integration 融合预言机",
+  "carousel-list-d": "Easy dapp integration 容易融合 dapp",
+  "carousel-link-a": "AUTONOMOUS 自主",
+  "carousel-link-b": "OPEN-SOURCE 开源",
+  "carousel-link-c": "DECENTRALIZED 分散式",
 
-  "collaborators-title-a": "Collab",
-  "collaborators-title-b": "orators",
-  "collaborators-desc-a": "team has extensive experience working with a wide array of token-based projects to engineer rational and balanced network economies that promote organic ecosystem growth. Clients include Axie Infinity (AXS), Synthetix (SNX), Aave (AAVE), Nervos (CKB) and Skale (SKL).",
+  "collaborators-title-a": "Collab 合作",
+  "collaborators-title-b": "orators 演说家",
+  "collaborators-desc-a": "team has extensive experience working with a wide array of token-based projects to engineer rational and balanced network economies that promote organic ecosystem growth. Clients include Axie Infinity (AXS), Synthetix (SNX), Aave (AAVE), Nervos (CKB) and Skale (SKL). 该团队在发展基于令牌的项目方拥有丰富的经验，并能促进生态系统的自然发展。 客户包括Axie Infinity (AXS), Synthetix (SNX), Aave (AAVE), Nervos (CKB) 与 Skale (SKL)。",
   "collaborators-desc-b": "invests in early-stage distributed web startups and co-create with them to launch new products and protocols. Partners include Handshake (HNS), PoolTogether (POOL), Instadapp (INST), Near (NEAR) and Optimism.",
   "collaborators-desc-c": "incubates foundational protocols on the Terra blockchain including Mirror (MIR), Anchor (ANC) and Chai.",
   "collaborators-link-a": "The Delphi Labs",
   "collaborators-link-b": "IDEO CoLab",
   "collaborators-link-c": "Terraform Labs",
 
-  "comingsoon-desc-a": "Our Mission",
+  "comingsoon-desc-a": "Our Mission 我们的使命",
   "comingsoon-desc-b": "Astroport removes the complexity of advanced yield farming strategies to deliver optimized, sustainable yield for users",
   "comingsoon-desc-c": "Astroport’s first product will be focus on borrow strategies which are available within the Terra ecosystem. The protocol will evolve and develop new vault strategies through community governance proposals and grants over time",
 
@@ -99,5 +99,5 @@
   "vaults-status-a": "Coming soon",
   "vaults-title-b": "UST Mirror",
   "vaults-desc-b": "Generates yield by operating an automated delta neutral yield strategy for UST in Mirror Finance.",
-  "vaults-status-b": "Coming soon"
+  "vaults-status-b": "Coming soon 即将推出"
 }
