@@ -1,14 +1,14 @@
 {
-  "swap-msg-a": "Price Impact",
-  "swap-msg-b": "Liquidity Provider Fee",
-  "swap-msg-c": "Slippage Tolerance",
-  "swap-msg-d": "Route",
-  "swap-msg-e": "Exchange Rate",
-  "swap-msg-f": "Minimum Received",
-  "swap-msg-g": "The amount includes the maximum slippage tolerance you selected",
-  "swap-msg-h": "Confirm Swap",
-  "swap-msg-i": "You are swapping from:",
-  "swap-msg-j": "You are swapping to:",
-  "swap-msg-k": "Complete Swap Route",
-  "swap-msg-l": "Swap Tokens"
+  "swap-msg-a": "Price Impact 价格影响",
+  "swap-msg-b": "Liquidity Provider Fee 流动性提供者费用",
+  "swap-msg-c": "Slippage Tolerance 价格容差",
+  "swap-msg-d": "Route 路线",
+  "swap-msg-e": "Exchange Rate 汇率",
+  "swap-msg-f": "Minimum Received 至少收到",
+  "swap-msg-g": "The amount includes the maximum slippage tolerance you selected 这数量包括您选择的最大价格容差",
+  "swap-msg-h": "Confirm Swap 确认兑换",
+  "swap-msg-i": "You are swapping from: 您将兑换自：",
+  "swap-msg-j": "You are swapping to: 您将兑换成：",
+  "swap-msg-k": "Complete Swap Route 完成兑换路",
+  "swap-msg-l": "Swap Tokens 兑换代币"
 }
