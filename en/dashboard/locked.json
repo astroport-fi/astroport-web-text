@@ -1,10 +1,10 @@
 {
-  "locked-msg-a": "Unlockable Liquidity",
-  "locked-msg-b": "Claimable Rewards",
-  "locked-msg-c": "Fully Unlocks On",
-  "locked-msg-d": "My Locked LP Tokens from Phase 2: ASTRO-UST Bootstrapping pool",
-  "locked-msg-e": "Your ASTRO-UST LP tokens unlock linearly over 3 months after the end of the phase 2 deposit window.",
-  "locked-msg-f": "You didn't lock any positions.",
-  "locked-msg-g": "My Locked LP Tokens from Phase 1 : The Lockdrop",
-  "locked-msg-h": "Your lockdrop positions will unlock on the dates you specified when you made your deposit."
+  "locked-msg-a": "Unlockable Liquidity 可解锁的流动性",
+  "locked-msg-b": "Claimable Rewards 可领取的奖励",
+  "locked-msg-c": "Fully Unlocks On 在{{insert date}}可完全解锁",
+  "locked-msg-d": "My Locked LP Tokens from Phase 2: ASTRO-UST Bootstrapping pool 我在第二阶段: ASTRO-UST 启动仓所锁定的流动池代币（LP tokens) ",
+  "locked-msg-e": "Your ASTRO-UST LP tokens unlock linearly over 3 months after the end of the phase 2 deposit window. 您的ASTRO-UST 流动池代币（LP tokens) 会在3个月内线性解锁",
+  "locked-msg-f": "You didn't lock any positions. 您未锁定任何资产",
+  "locked-msg-g": "My Locked LP Tokens from Phase 1 : The Lockdrop 我在第一阶段: 锁定空投 所锁定的流动池代币（LP tokens)",
+  "locked-msg-h": "Your lockdrop positions will unlock on the dates you specified when you made your deposit. 您所锁定的资产会在您存款时所指定的日期解锁"
 }
