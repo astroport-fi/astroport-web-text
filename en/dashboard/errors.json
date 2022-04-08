@@ -10,7 +10,7 @@
   "errors-msg-i": "must be inside a Provider with a value 提供者内必须有价格",
   "errors-msg-j": "Error in estimating fee 估计费用时出错",
   "errors-msg-k": "Something went wrong 出错了",
-  "errors-msg-l": "Swap from {{token1Symbol}} to {{token2Symbol}} failed {{token1Symbol}}兑换{{token2Symbol}}失败",
+  "errors-msg-l": "Swap from {{token1Symbol}} to {{token2Symbol}} failed {{token1Symbol}}兑换成{{token2Symbol}}失败",
   "errors-msg-m": "Failed to claim rewards 领取奖金失败",
   "errors-msg-n": "Failed to unlock LP token 解锁流动池（LP）代币失败",
   "errors-msg-o": "Stake LP tokens failed 质押流动池（LP）代币失败",
@@ -18,6 +18,6 @@
   "errors-msg-q": "Provide liquidity for {{token1Symbol}} and {{token2Symbol}} failed {{token1Symbol}} 与 {{token2Symbol}}添加流动性失败",
   "errors-msg-r": "Withdraw liquidity for {{token1Symbol}} and {{token2Symbol}} failed {{token1Symbol}} 与 {{token2Symbol}提取流动性失败",
   "errors-msg-s": "Timed out. Please try again. 已超时。请重试",
-  "errors-msg-t": "We're sorry, you don't have enough funds to complete this request. Please try again when you have more funds available. 对不起。您的资金不足。请您获取更多资金再来重试",
+  "errors-msg-t": "We're sorry, you don't have enough funds to complete this request. Please try again when you have more funds available. 对不起。您的资金不足。请您获取更多资金后再来重试。",
   "errors-msg-u": "Sorry, the specified fee was not enough to cover the cost of this transaction. Please try again. 对不起，指定费用不足于支付交易费用。请您再尝试、"
 }
