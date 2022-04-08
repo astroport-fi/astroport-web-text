@@ -1,0 +1,10 @@
+{
+  "locked-msg-a": "Kilidi Açılabilir Likidite",
+  "locked-msg-b": "Sahiplenilebilir Ödüller",
+  "locked-msg-c": "Kilitlerin Tamamının Açılım Zamanı",
+  "locked-msg-d": "2. Aşama : ASTRO-UST Bootstrap havuzundaki kilitli LP Tokenlarım",
+  "locked-msg-e": "ASTRO-UST LP tokenlarınız, 2. aşama yatırım zamanının bitiminden sonra 3 ay boyunca lineer olarak açılır.",
+  "locked-msg-f": "Kilitli pozisyonunuz yok.",
+  "locked-msg-g": "1. Aşama : Lockdrop'taki kilitli LP Tokenlarım",
+  "locked-msg-h": "Lockdrop pozisyonlarınızın kilidi, yatırım yaparken seçmiş olduğunuz tarihlerde açılacaktır."
+}

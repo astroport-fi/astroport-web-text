@@ -1,0 +1,14 @@
+{
+  "swap-msg-a": "Fiyat Etkisi",
+  "swap-msg-b": "Likidite Sağlayıcı Ücreti",
+  "swap-msg-c": "Slipaj Toleransı",
+  "swap-msg-d": "Rota",
+  "swap-msg-e": "Takas Kuru",
+  "swap-msg-f": "Elde Edilecek Minimum",
+  "swap-msg-g": "Tutar, seçtiğiniz maksimum slipaj toleransını da içerir",
+  "swap-msg-h": "Takası Onayla",
+  "swap-msg-i": "Takasta vereceğiniz:",
+  "swap-msg-j": "Takasta alacağınız:",
+  "swap-msg-k": "Takas Rotasının Tamamı",
+  "swap-msg-l": "Tokenları Takasla"
+}

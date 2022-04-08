@@ -1,0 +1,11 @@
+{
+  "unlock-title-a": "LP Tokenların Kilidini Aç",
+  "unlock-title-b": "Çekilebilir LP Tokenlar",
+
+  "unlock-msg-a": "Kilidini açacaksın",
+  "unlock-msg-b": "LP tokenlarınızın kilidini açtıktan sonra şunları yapabilirsiniz:",
+  "unlock-msg-c": "Likiditenizi “Havuzlarım” altındaki “Havuzlar” sayfasından çekin.",
+  "unlock-msg-d": "Veya çifte ödül almaya devam etmek için LP tokenlarınızı generator'a stake edin.",
+
+  "unlock-button-a": "LP Tokenların Kilidini Açmayı Onayla"
+}

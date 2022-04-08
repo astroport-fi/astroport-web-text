@@ -1,0 +1,23 @@
+{
+  "errors-msg-a": "Başarısız",
+  "errors-msg-b": "Tekrar Deneyin",
+  "errors-msg-c": "Ana sayfaya dön",
+  "errors-msg-d": "Alınacak token miktarı geçersiz.",
+  "errors-msg-e": "Her iki tutar da 0'dan büyük olmalıdır",
+  "errors-msg-f": "UST bakiyesi işlem ücretini ödemek için yetersiz",
+  "errors-msg-g": "cüzdandaki varlıklar yetersiz",
+  "errors-msg-h": "Veri Yükleme Hatası",
+  "errors-msg-i": "değeri olan bir Sağlayacının içinde olmalıdır",
+  "errors-msg-j": "İşlem ücreti hesaplanamadı",
+  "errors-msg-k": "Bir sorun oluştu",
+  "errors-msg-l": "{{token1Symbol}} ile {{token2Symbol}} takası başarısız",
+  "errors-msg-m": "Ödül sahiplenme başarısız",
+  "errors-msg-n": "LP token kilit açılımı başarısız",
+  "errors-msg-o": "LP token stake'i başarısız",
+  "errors-msg-p": "LP token unstake'i başarısız",
+  "errors-msg-q": "{{token1Symbol}} ve {{token2Symbol}} için likidite sağlama başarısız",
+  "errors-msg-r": "{{token1Symbol}} ve {{token2Symbol}} için likidite çekme başarısız",
+  "errors-msg-s": "Zaman aşımına uğradı. Lütfen tekrar deneyin.",
+  "errors-msg-t": "Üzgünüz, bu isteği tamamlamak için yeterli bakiyeniz yok. Lütfen daha fazla bakiyeniz olduğunda tekrar deneyin.",
+  "errors-msg-u": "Üzgünüz, belirtilen ücret bu işlemi gerçekleştirmeye yetmedi. Lütfen tekrar deneyin."
+}
