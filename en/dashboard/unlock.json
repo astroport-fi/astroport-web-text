@@ -1,11 +1,11 @@
 {
-  "unlock-title-a": "Unlock LP Tokens 解锁流动池代币",
-  "unlock-title-b": "Withdrawable LP Tokens 可取回的流动池代币",
+  "unlock-title-a": "Unlock LP Tokens 解锁LP代币",
+  "unlock-title-b": "Withdrawable LP Tokens 可提现的LP代币",
 
   "unlock-msg-a": "You'll unlock 您将解锁",
-  "unlock-msg-b": "Once you’ve unlocked your LP tokens you can: 当您解锁流动池代币后，您可以：",
-  "unlock-msg-c": "Withdraw your liquidity on the “Pools” page under “My Pools” 在 “流动池（Pools)” 页内的 “我的流动池（My Pools)” 可以提取您的流动性 ",
-  "unlock-msg-d": "Or stake your LP tokens into the generator to continue receiving dual rewards 或将您的流动池代币质押再生产器上，以获取双重奖励",
+  "unlock-msg-b": "Once you’ve unlocked your LP tokens you can: 当您解锁LP代币后，您可以：",
+  "unlock-msg-c": "Withdraw your liquidity on the “Pools” page under “My Pools” 在 “流动池（Pools)” 页下的 “我的流动池（My Pools)” 可以提现您的流动性 ",
+  "unlock-msg-d": "Or stake your LP tokens into the generator to continue receiving dual rewards 或将您的LP代币质押在生产器上，以继续获取双重奖励",
 
-  "unlock-button-a": "Confirm Unlocking LP Tokens 确认解锁流动池代币"
+  "unlock-button-a": "Confirm Unlocking LP Tokens 确认解锁LP代币"
 }
