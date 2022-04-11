@@ -1,0 +1,11 @@
+{
+  "unlock-title-a": "解锁LP代币",
+  "unlock-title-b": "可提现的LP代币",
+
+  "unlock-msg-a": "您将解锁",
+  "unlock-msg-b": "当您解锁LP代币后，您可以：",
+  "unlock-msg-c": "在 “流动池（Pools)” 页下的 “我的流动池” 可以提现您的流动性",
+  "unlock-msg-d": "或将您的LP代币质押在生产器里，以继续获取双重奖励",
+
+  "unlock-button-a": "确认解锁LP代币"
+}
