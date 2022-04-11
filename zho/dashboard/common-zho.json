@@ -75,7 +75,7 @@
   "common-msg-bv": "Days 天",
   "common-msg-bw": "Hours 时",
   "common-msg-bx": "Minutes 分",
-  "common-msg-by": "The APR is calculated using token prices denominated in UST. Prices are fetched either from Astroport pools or from Coingecko. Also, the APR is a 365 day projection based on each pool's performance over the last 24h. See Astroport Disclaimers & Disclosures for more details 年利率的计算是以代币的 UST 价格计算出。价格得自Astroport流动池或Coingecko。年利率是通过每个流动池的24小时交易量以预计365天的预算。请阅读Astroport的免责说明与披露获得更多详情",
+  "common-msg-by": "The APR is calculated using token prices denominated in UST. Prices are fetched either from Astroport pools or from Coingecko. Also, the APR is a 365 day projection based on each pool's performance over the last 24h. See Astroport Disclaimers & Disclosures for more details 年利率的计算是以代币的 UST 价格计算出。价格得自Astroport流动池或Coingecko。年利率是根据每个流动池24小时的交易量，做出365天的预测。请阅读Astroport的免责说明与披露获得更多详情",
   "common-msg-bz": "Rewards BreakDown 奖励分解",
   "common-msg-ca": "Total Rewards 奖励总额",
   "common-msg-cb": "Unclaimed Balance 未提取余额"
