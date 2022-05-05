@@ -1,9 +1,11 @@
 {
-  "unlock-title-a": "Unlock LP Tokens",
-  "unlock-title-b": "Withdrawable LP Tokens",
-  "unlock-msg-a": "You'll unlock",
-  "unlock-msg-b": "Once you’ve unlocked your LP tokens you can:",
-  "unlock-msg-c": "Withdraw your liquidity on the “Pools” page under “My Pools”",
-  "unlock-msg-d": "Or stake your LP tokens into the generator to continue receiving dual rewards",
-  "unlock-button-a": "Confirm Unlocking LP Tokens"
+  "unlock-title-a": "Desbloquear Tokens de LP",
+  "unlock-title-b": "Tokens de LP retiráveis",
+
+  "unlock-msg-a": "Você vai desbloquear",
+  "unlock-msg-b": "Depois de desbloquear seus tokens de LP, você pode:",
+  "unlock-msg-c": "Retirar sua liquidez na página 'Reservas' em 'Minhas Reservas'",
+  "unlock-msg-d": "Ou estaque seus tokens de LP no gerador para continuar recebendo recompensas duplas",
+
+  "unlock-button-a": "Confirmar o desbloqueio de Tokens de LP"
 }
