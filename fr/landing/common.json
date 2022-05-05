@@ -1,6 +1,5 @@
 {
   "error-return-home": "Retour à la page d’accueil",
-
   "carousel-specs": "Caractéristiques Astroport",
   "carousel-desc-a": "Principales",
   "carousel-desc-b": "Fonctionnalités",
@@ -11,7 +10,6 @@
   "carousel-link-a": "AUTONOME",
   "carousel-link-b": "OPEN-SOURCE",
   "carousel-link-c": "DÉCENTRALISÉ",
-
   "collaborators-title-a": "Collab",
   "collaborators-title-b": "orateurs",
   "collaborators-desc-a": "L’équipe a une grande expérience de travail avec un large éventail de projets basés sur des tokens lui permettant de mettre en place des économies de réseau rationnelles et équilibrées qui favorisent la croissance organique de l'écosystème. Parmi nos clients figurent Axie Infinity (AXS), Synthetix (SNX), Aave (AAVE), Nervos (CKB) et Skale (SKL).",
@@ -20,11 +18,9 @@
   "collaborators-link-a": "The Delphi Labs",
   "collaborators-link-b": "IDEO CoLab",
   "collaborators-link-c": "Terraform Labs",
-
   "comingsoon-desc-a": "Notre Mission",
   "comingsoon-desc-b": "Astroport supprime la complexité des stratégies de yield farming avancées et propose un système de rendement optimisé et durable aux utilisateurs",
   "comingsoon-desc-c": "Le premier produit d’Astroport se concentrera sur les stratégies d’emprunt disponibles dans l’écosystème Terra. Au fil du temps, le protocole évoluera et développera de nouvelles stratégies de type coffre-fort par le biais de propositions de gouvernance communautaire et de subventions",
-
   "content-desc-a": "La prochaine évolution des DEX",
   "content-desc-b": "Écrit à partir de zéro en Rust, Astroport combine les meilleurs éléments de 6 années de développement sur la blockchain Ethereum et les met en œuvre sur Terra.",
   "content-desc-c": "Il prend en charge deux types de pool de liquidités :",
@@ -38,7 +34,6 @@
   "content-link-a": "Ouvrir l’app",
   "content-link-b": "Échanger maintenant",
   "content-link-c": "Fournir des liquidités",
-
   "footer-desc-a": "Astroport apporte des liquidités aux tokens Terra de toutes les parties de la galaxie.",
   "footer-desc-b": "Ouvrir l’App",
   "footer-desc-c": "Astroport",
@@ -54,29 +49,23 @@
   "footer-link-h": "Medium",
   "footer-link-i": "Telegram",
   "footer-link-j": "Twitter",
-
   "hero-header": "Astroport. Le futur du trading",
   "hero-trading": "Commencez à trader",
-
   "immunefi-desc-a": "Des récompenses jusqu’à 3 000 000 $",
   "immunefi-desc-b": "si vous découvrez des bugs ou des vulnérabilités sur Astroport.",
   "immunefi-desc-c": "Signaler un bug",
   "immunefi-desc-d": "avec",
-
   "intro-title-a": "L’HYPER VITESSE",
   "intro-title-b": "EXPLIQUÉE",
   "intro-desc-a": "Survolant",
   "intro-desc-b": "l’écosystème Terra",
-
   "intro-desc-c": "Astroport est un marketplace neutre où n’importe qui, de n’importe où dans la galaxie",
   "intro-desc-d": "peut accoster pour échanger ses marchandises.",
   "intro-desc-e": "Décentralisé, sans permission et open-source",
   "intro-desc-f": "le marketplace d’Astroport est un bien public régi par sa communauté de détenteurs de",
   "intro-desc-g": "tokens.",
   "intro-learn": "En savoir plus",
-
   "livebanner-title": "Le Drop Astro est en cours",
-
   "navbar-about": "À propos",
   "navbar-support": "Support",
   "navbar-tutorials": "Tutoriels",
@@ -84,16 +73,13 @@
   "navbar-enter": "Entrer dans l’app",
   "navbar-launch": "Démarrer l’app",
   "navbar-terms": "Conditions d’utilisation",
-
   "soonmodal-title": "Prochainement",
-
   "tcbanner-header-begin": "Ce site web (le “Site”) est un agrégateur d’informations relié un ensemble de smarts contracts Astroport sur Terra. En consultant ce Site ou en l’utilisant, vous acceptez ses",
   "tcbanner-header-link": "Conditions d’utilisation",
   "tcbanner-header-end": ". Merci de certifier ci-dessous que vous avez lu, compris et accepté les Conditions d’utilisation dans leur entièreté.",
   "tcbanner-body": "J’ai lu et j’accepte les Conditions d’utilisation.",
   "tcbanner-link-agree": "J’accepte",
   "tcbanner-link-disagree": "Je refuse",
-
   "vaults-header": "Coffres-forts",
   "vaults-title-a": "Réserve bLuna/bETH Anchor",
   "vaults-desc-a": "Génère du rendement en maximisant le ratio prêt/valeur (LTV) d’Anchor pour bénéficier des incitations distribuées aux emprunteurs tout en protégeant l’utilisateur des risques de liquidation.",
