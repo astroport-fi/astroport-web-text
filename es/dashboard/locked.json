@@ -1,10 +1,10 @@
 {
-  "locked-msg-a": "Unlockable Liquidity",
-  "locked-msg-b": "Claimable Rewards",
-  "locked-msg-c": "Fully Unlocks On",
-  "locked-msg-d": "My Locked LP Tokens from Phase 2: ASTRO-UST Bootstrapping pool",
-  "locked-msg-e": "Your ASTRO-UST LP tokens unlock linearly over 3 months after the end of the phase 2 deposit window.",
-  "locked-msg-f": "You didn't lock any positions.",
-  "locked-msg-g": "My Locked LP Tokens from Phase 1 : The Lockdrop",
-  "locked-msg-h": "Your lockdrop positions will unlock on the dates you specified when you made your deposit."
+  "locked-msg-a": "Liquidez Desbloqueable",
+  "locked-msg-b": "Recompensas Canjeables",
+  "locked-msg-c": "Desbloqueo completo en",
+  "locked-msg-d": "Mis Tokens LP Bloqueados de la Fase 2: Pool de Iniciación ASTRO-UST ",
+  "locked-msg-e": "Tus tokens LP ASTRO-UST se desbloquean linearmente en el transcurso de 3 meses después del final del plazo de depósito de la fase 2.",
+  "locked-msg-f": "No has bloqueado ninguna posición de LP.",
+  "locked-msg-g": "Mis Tokens LP Bloqueados de la Fase 1 : The Lockdrop",
+  "locked-msg-h": "El depósito realizado en la Fase 1 comenzará a desbloquearse en las fechas especificadas al momento de realizar el depósito."
 }

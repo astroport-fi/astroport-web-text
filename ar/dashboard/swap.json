@@ -1,14 +1,14 @@
 {
-  "swap-msg-a": "Price Impact",
-  "swap-msg-b": "Liquidity Provider Fee",
-  "swap-msg-c": "Slippage Tolerance",
-  "swap-msg-d": "Route",
-  "swap-msg-e": "Exchange Rate",
-  "swap-msg-f": "Minimum Received",
-  "swap-msg-g": "The amount includes the maximum slippage tolerance you selected",
-  "swap-msg-h": "Confirm Swap",
-  "swap-msg-i": "You are swapping from:",
-  "swap-msg-j": "You are swapping to:",
-  "swap-msg-k": "Complete Swap Route",
-  "swap-msg-l": "Swap Tokens"
+  "swap-msg-a": "التأثير على السعر",
+  "swap-msg-b": "رسوم مزود السيولة",
+  "swap-msg-c": "معدّل الانزلاق المقبول",
+  "swap-msg-d": "مسار",
+  "swap-msg-e": "سعر الصرف",
+  "swap-msg-f": "ستتلقى على أقل تقدير",
+  "swap-msg-g": "المبلغ يعكس الحد الأقصى المقبول للانزلاق الذي قمت بتحديده",
+  "swap-msg-h": "تأكيد المبادلة",
+  "swap-msg-i": "أنت تقوم بالمبادلة من:",
+  "swap-msg-j": "أنت تقوم بالمبادلة إلى:",
+  "swap-msg-k": "مسار المبادلة المفصّل",
+  "swap-msg-l": "بادل العملات"
 }

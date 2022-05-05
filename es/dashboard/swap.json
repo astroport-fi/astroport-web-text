@@ -1,14 +1,14 @@
 {
-  "swap-msg-a": "Price Impact",
-  "swap-msg-b": "Liquidity Provider Fee",
-  "swap-msg-c": "Slippage Tolerance",
-  "swap-msg-d": "Route",
-  "swap-msg-e": "Exchange Rate",
-  "swap-msg-f": "Minimum Received",
-  "swap-msg-g": "The amount includes the maximum slippage tolerance you selected",
-  "swap-msg-h": "Confirm Swap",
-  "swap-msg-i": "You are swapping from:",
-  "swap-msg-j": "You are swapping to:",
-  "swap-msg-k": "Complete Swap Route",
-  "swap-msg-l": "Swap Tokens"
+  "swap-msg-a": "Impacto de Precio",
+  "swap-msg-b": "Comisiones de Proveedor de Liquidez",
+  "swap-msg-c": "Tolerancia de deslizamiento",
+  "swap-msg-d": "Ruta",
+  "swap-msg-e": "Taza de Intercambio",
+  "swap-msg-f": "Mínimo a Recibir",
+  "swap-msg-g": "La cantidad incluye la tolerancia de deslizamiento máxima seleccionada.",
+  "swap-msg-h": "Confirmar Swap",
+  "swap-msg-i": "Intercambias de:",
+  "swap-msg-j": "Intercambias a:",
+  "swap-msg-k": "Ruta de Intercambio Completa",
+  "swap-msg-l": "Intercambiar Tokens"
 }
