@@ -1,11 +1,9 @@
 {
-  "unlock-title-a": "فك تجميد شهادات تزويد السيولة",
-  "unlock-title-b": "شهادات تزويد السيولة القابلة للسحب",
-
-  "unlock-msg-a": "ستقوم بفك تجميد",
-  "unlock-msg-b": "بعد قيامك بفك تجميد شهادات تزويد السيولة الخاصة بك سيمكنك، :",
-  "unlock-msg-c": "سحب السيولة الخاصّة بك في صفحة 'حوض السيولة' تحت قائمة 'أحواض قمت بتزويدها'.",
-  "unlock-msg-d": "أو تخزين شهادات تزويد السيولة في الموّلد للاستمرار باستحقاق مكافآت مزدوجة",
-
-  "unlock-button-a": "تأكيد فك تجميد شهادات تزويد السيولة"
+  "unlock-title-a": "Unlock LP Tokens",
+  "unlock-title-b": "Withdrawable LP Tokens",
+  "unlock-msg-a": "You'll unlock",
+  "unlock-msg-b": "Once you’ve unlocked your LP tokens you can:",
+  "unlock-msg-c": "Withdraw your liquidity on the “Pools” page under “My Pools”",
+  "unlock-msg-d": "Or stake your LP tokens into the generator to continue receiving dual rewards",
+  "unlock-button-a": "Confirm Unlocking LP Tokens"
 }
