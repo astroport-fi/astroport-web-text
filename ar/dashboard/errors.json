@@ -8,7 +8,7 @@
   "errors-msg-g": "لا يتوفر القدر الكافي من الأصول المطلوبة في المحفظة",
   "errors-msg-h": "حدث خطأ في تحميل البيانات",
   "errors-msg-i": "يجب أن يكون داخل موفر ذي قيمة",
-  "Errors-msg-j": "حدث خطأ في تقدير الرسوم",
+  "errors-msg-j": "Error in estimating fee",
   "errors-msg-k": "حدث خطأ",
   "errors-msg-l": "فشلت المبادلة من {{token1Symbol}} إلى {{token2Symbol}}",
   "errors-msg-m": "فشلت محاولة المطالبة بالمكافآت",
