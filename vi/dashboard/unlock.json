@@ -1,9 +1,9 @@
 {
-  "unlock-title-a":"Mở khóa Token chứng nhận cung cấp thanh khoản",
-  "unlock-title-b":"Token chứng nhận cung cấp thanh khoản có thể rút",
-  "unlock-msg-a":"Bạn sẽ mở khóa",
-  "unlock-msg-b":"Khi bạn đã mở khóa token chứng nhận cung cấp thanh khoản của mình bạn có thể",
-  "unlock-msg-c":"Rút thanh khoản của bạn trên trang “Pools” dưới tên “Pools của tôi”",
-  "unlock-msg-d":"Hoặc stake token thanh khoản vào generator để tiếp tục nhận phần thưởng kép.",
-  "unlock-button-a":"Xác nhận mở khóa Token chứng nhận cung cấp thanh khoản"
+  "unlock-title-a": "Unlock LP Tokens",
+  "unlock-title-b": "Withdrawable LP Tokens",
+  "unlock-msg-a": "You'll unlock",
+  "unlock-msg-b": "Once you’ve unlocked your LP tokens you can:",
+  "unlock-msg-c": "Withdraw your liquidity on the “Pools” page under “My Pools”",
+  "unlock-msg-d": "Or stake your LP tokens into the generator to continue receiving dual rewards",
+  "unlock-button-a": "Confirm Unlocking LP Tokens"
 }
