@@ -1,9 +1,9 @@
 {
-  "unlock-title-a": "LP Token Kilidi Aç",
-  "unlock-title-b": "Çekilebilir LP Tokenleri",
-  "unlock-msg-a": "Kilit açacaksınız.",
-  "unlock-msg-b": "LP Token kilitlerini açtığınızda yapabilecekleriniz:",
-  "unlock-msg-c": "Havuzlar sayfası altında Havuzlarım kısmından likiditenizi çekin",
-  "unlock-msg-d": "Veya çifte ödül elde etmek için Jeneratör’e LP tokenlerinizi stake edin.",
-  "unlock-button-a": "LP token kilit açmayı onayla"
+  "unlock-title-a": "Unlock LP Tokens",
+  "unlock-title-b": "Withdrawable LP Tokens",
+  "unlock-msg-a": "You'll unlock",
+  "unlock-msg-b": "Once you’ve unlocked your LP tokens you can:",
+  "unlock-msg-c": "Withdraw your liquidity on the “Pools” page under “My Pools”",
+  "unlock-msg-d": "Or stake your LP tokens into the generator to continue receiving dual rewards",
+  "unlock-button-a": "Confirm Unlocking LP Tokens"
 }
