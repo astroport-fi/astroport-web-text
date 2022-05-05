@@ -1,14 +1,14 @@
 {
-  "swap-msg-a": "ผลกระทบต่อราคา",
-  "swap-msg-b": "ค่าธรรมเนียมผู้วางสภาพคล่อง",
-  "swap-msg-c": "ค่าความคลาดเคลื่อนที่รับได้",
-  "swap-msg-d": "เส้นทาง",
-  "swap-msg-e": "อัตราแลกเปลี่ยน",
-  "swap-msg-f": "จำนวนต่ำสุดที่จะได้รับ",
-  "swap-msg-g": "จำนวนนี้ได้รวมค่าความคลาดเคลื่อนสูงสุดที่คุณเลือกแล้ว ",
-  "swap-msg-h": "ยืนยันการแลกเปลี่ยน",
-  "swap-msg-i": "คุณกำลังแลกจาก:",
-  "swap-msg-j": "คุณกำลังแลกเป็น:",
-  "swap-msg-k": "เส้นทางการแลกเปลี่ยนเสร็จสมบูรณ์",
-  "swap-msg-l": "แลกเปลี่ยนโทเคน"
+  "swap-msg-a": "Price Impact",
+  "swap-msg-b": "Liquidity Provider Fee",
+  "swap-msg-c": "Slippage Tolerance",
+  "swap-msg-d": "Route",
+  "swap-msg-e": "Exchange Rate",
+  "swap-msg-f": "Minimum Received",
+  "swap-msg-g": "The amount includes the maximum slippage tolerance you selected",
+  "swap-msg-h": "Confirm Swap",
+  "swap-msg-i": "You are swapping from:",
+  "swap-msg-j": "You are swapping to:",
+  "swap-msg-k": "Complete Swap Route",
+  "swap-msg-l": "Swap Tokens"
 }
