@@ -1,6 +1,5 @@
 {
   "error-return-home": "返回首页",
-
   "carousel-specs": "Astroport 规格",
   "carousel-desc-a": "核心",
   "carousel-desc-b": "特点",
@@ -11,7 +10,6 @@
   "carousel-link-a": "自治",
   "carousel-link-b": "开源",
   "carousel-link-c": "去中心化",
-
   "collaborators-title-a": "合作",
   "collaborators-title-b": "伙伴",
   "collaborators-desc-a": "团队拥有与多个代币项目合作的丰富经验，设计了能够推动生态增长的合理平衡的网络经济。 客户包括 Axie Infinity (AXS), Synthetix (SNX), Aave (AAVE), Nervos (CKB) 和 Skale (SKL)。",
@@ -20,11 +18,9 @@
   "collaborators-link-a": "The Delphi Labs",
   "collaborators-link-b": "IDEO CoLab",
   "collaborators-link-c": "Terraform Labs",
-
   "comingsoon-desc-a": "我们的使命",
   "comingsoon-desc-b": "Astroport 消除了高级收益耕作策略的复杂性，从而为用户提供优化的可持续的收益。",
   "comingsoon-desc-c": "Astroport 的第一个产品将专注于 Terra 生态中的借贷策略，通过社区治理提案和拨款不断的改进协议和开发新的金库策略。",
-
   "content-desc-a": "新一代进化版去中心化交易所DEX",
   "content-desc-b": "完全采用 Rust 从头开始编写，Astroport 集合了以太坊六年开发中的精华并将其运用在 Terra 上。",
   "content-desc-c": "它支持两种流动性池类型:",
@@ -38,7 +34,6 @@
   "content-link-a": "启动 app",
   "content-link-b": "现在交易",
   "content-link-c": "提供流动性",
-
   "footer-desc-a": "Astroport 为所有银河系的代币提供流动性。",
   "footer-desc-b": "进入 App",
   "footer-desc-c": "Astroport",
@@ -54,15 +49,12 @@
   "footer-link-h": "Medium",
   "footer-link-i": "Telegram",
   "footer-link-j": "Twitter",
-
   "hero-header": "Astroport. 交易的未来",
   "hero-trading": "开始交易",
-
   "immunefi-desc-a": "获得最高 $3,000,000 的奖励",
   "immunefi-desc-b": "如果您在 Astroport 上发现漏洞或错误",
   "immunefi-desc-c": "报告Bug",
   "immunefi-desc-d": "与",
-
   "intro-title-a": "极速",
   "intro-title-b": "说明",
   "intro-desc-a": "悬停在上方",
@@ -73,9 +65,7 @@
   "intro-desc-f": "Astroport 的市场是由社区的代币持有者共同治理的公共物品。",
   "intro-desc-g": "代币持有者",
   "intro-learn": "了解更多",
-
   "livebanner-title": "Astro 开始分发",
-
   "navbar-about": "关于",
   "navbar-support": "帮助",
   "navbar-tutorials": "教程",
@@ -83,16 +73,13 @@
   "navbar-enter": "进入 app",
   "navbar-launch": "启动 app",
   "navbar-terms": "使用条款",
-
   "soonmodal-title": "即将到来",
-
   "tcbanner-header-begin": "本网站（此 '站点'）是与（关于） Terra 上的 Astroport 智能合约系统相关的信息聚合器。查看本网站、与本网站互动或以其他方式使用本网站，即表示您同意",
   "tcbanner-header-link": "网站的条款和条件",
   "tcbanner-header-end": "请查看下方以确认您已阅读并理解且接受所有条款和条件的约束。",
   "tcbanner-body": "我已阅读并接受条款和条件的约束。",
   "tcbanner-link-agree": "我同意",
   "tcbanner-link-disagree": "我不同意",
-
   "vaults-header": "金库",
   "vaults-title-a": "bLuna/bETH Anchor",
   "vaults-desc-a": "通过最大化 Anchor 借贷价值比率 (LTV) 获得借款人激励代币收益（来获取收益），同时自动保护用户免受清算风险。",

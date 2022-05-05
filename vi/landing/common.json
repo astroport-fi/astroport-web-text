@@ -1,6 +1,5 @@
 {
   "error-return-home": "Quay trở lại trang chủ",
-
   "carousel-specs": "Thông số kỹ thuật của Astroport",
   "carousel-desc-a": "Thành phần chính",
   "carousel-desc-b": "Tính năng",
@@ -11,7 +10,6 @@
   "carousel-link-a": "TỰ ĐỘNG",
   "carousel-link-b": "MÃ NGUỒN MỞ",
   "carousel-link-c": "PHI TẬP TRUNG",
-
   "collaborators-title-a": "Cộng tác",
   "collaborators-title-b": "nhà hùng biện",
   "collaborators-desc-a": "Team có nhiều kinh nghiệm làm việc với nhiều dự án thiết kế nền kinh tế mạng một cách cân bằng và hợp lý dựa trên token, nhằm thúc đẩy tăng trưởng hệ sinh thái một cách tự nhiên. Khách hàng bao gồm Axie Infinity (AXS), Synthetix (SNX), Aave (AAVE), Nervos (CKB) và Skale (SKL). ",
@@ -20,11 +18,9 @@
   "collaborators-link-a": "The Delphi Labs",
   "collaborators-link-b": "IDEO CoLab",
   "collaborators-link-c": "Terraform Labs",
-
   "comingsoon-desc-a": "Nhiệm vụ của chúng tôi",
   "comingsoon-desc-b": "Astroport loại bỏ sự phức tạp của Khai thác Lợi suất (Yield farming)để mang lại lãi suất ổn định và tối ưu hóa cho người dùng",
   "comingsoon-desc-c": "Sản phẩm đầu tiên của Astroport sẽ tập trung vào các chiến lược vay mượn có sẵn trong hệ sinh thái Terra. Giao thức này sẽ phát triển và mở ra các chiến lược vault mới thông qua các đề xuất và tài trợ của Quản trị cộng đồng theo thời gian",
-
   "content-desc-a": "Bước phát triển tiếp theo trong DEXes",
   "content-desc-b": "Được viết bằng Rust ngay từ đầu, Astroport kết hợp những phần tốt nhất trong sáu năm phát triển trên Ethereum và đem nó lên Terra.",
   "content-desc-c": "Nó hỗ trợ hai loại nhóm cung cấp thanh khoản:",
@@ -38,7 +34,6 @@
   "content-link-a": "Mở app",
   "content-link-b": "Giao dịch",
   "content-link-c": "Cung cấp thanh khoản",
-
   "footer-desc-a": "Astroport mang lại tính thanh khoản cho các token trên Terra từ tất cả các phần của thiên hà.",
   "footer-desc-b": "Vào App",
   "footer-desc-c": "Astroport",
@@ -54,15 +49,12 @@
   "footer-link-h": "Medium",
   "footer-link-i": "Telegram",
   "footer-link-j": "Twitter",
-
   "hero-header": "Astroport. Tương lai của giao dịch",
   "hero-trading": "Bắt đầu giao dịch",
-
   "immunefi-desc-a": "Được trả tới 3.000.000 đô la",
   "immunefi-desc-b": "nếu bạn phát hiện ra lỗi và lỗ hổng bảo mật trên Astroport.",
   "immunefi-desc-c": "Báo cáo lỗi",
   "immunefi-desc-d": "với",
-
   "intro-title-a": "SIÊU TỐC ĐỘ",
   "intro-title-b": "GIẢI THÍCH",
   "intro-desc-a": "Di chuột phía trên",
@@ -73,9 +65,7 @@
   "intro-desc-f": "Thị trường của Astroport là dành cho công cộng được điều hành bởi cộng đồng",
   "intro-desc-g": "người nắm giữ token.",
   "intro-learn": "Tìm hiểu thêm",
-
   "livebanner-title": "Astro Drop is Live",
-
   "navbar-about": "Về chúng tôi",
   "navbar-support": "Hỗ trợ",
   "navbar-tutorials": "Hướng dẫn",
@@ -83,16 +73,13 @@
   "navbar-enter": "Vào app",
   "navbar-launch": "Mở app",
   "navbar-terms": "Điều khoản sử dụng",
-
   "soonmodal-title": "Sắp diễn ra",
-
   "tcbanner-header-begin": "Trang web này là một công cụ tổng hợp thông tin liên quan đến hệ thống hợp đồng thông minh Astroport trên Terra. Bằng cách xem, tương tác với hoặc sử dụng Trang web, bạn đồng ý với",
   "tcbanner-header-link": "Điều kiện và Điều khoản của Trang web",
   "tcbanner-header-end": ". Vui lòng kiểm tra bên dưới để xác nhận rằng bạn đã đọc và hiểu và đồng ý bị ràng buộc bởi Toàn bộ các Điều kiện và Điều khoản.",
   "tcbanner-body": "Tôi đã đọc và đồng ý bị ràng buộc bởi các Điều kiện và Điều khoản.",
   "tcbanner-link-agree": "Tôi đồng ý",
   "tcbanner-link-disagree": "Tôi không đồng ý",
-
   "vaults-header": "Kho tiền",
   "vaults-title-a": "bLuna/bETH Anchor",
   "vaults-desc-a": "Tạo ra lợi nhuận bằng cách tối đa hóa tỷ lệ của khoản vay trên giá trị (LTV) của Anchor Borrow để thu được các phần thưởng token khuyến khích người vay trong khi tự động bảo vệ người dùng khỏi rủi ro thanh lý.",

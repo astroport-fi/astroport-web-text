@@ -1,10 +1,10 @@
 {
- "locked-msg-a": "Kilidi Açılabilir Likidite",
- "locked-msg-b": "Talep Edilebilir Ödüller",
- "locked-msg-c": "Tamamen Kilidi Açılır",
- "locked-msg-d": "Faz 2'deki Kilitli LP Tokenlerim: ASTRO-UST Önyükleme havuzu",
- "locked-msg-e": "ASTRO-UST LP tokenleriniz faz 2 yatırım kısmının sonlanmasından sonra, 3 ay içerisinde lineer olarak kilidi açılacaktır.",
- "locked-msg-f": "Herhangi bir pozisyonu kilitlemediniz.",
- "locked-msg-g": "Faz 1'deki Kilitli LP Tokenlerim: The Lockdrop",
- "locked-msg-h": "Lockdrop pozisyonlarınızın kilidi, yatırım yaptığınız gün belirlediğiniz tarihlerde açılacaktır."
+  "locked-msg-a": "Kilidi Açılabilir Likidite",
+  "locked-msg-b": "Talep Edilebilir Ödüller",
+  "locked-msg-c": "Tamamen Kilidi Açılır",
+  "locked-msg-d": "Faz 2'deki Kilitli LP Tokenlerim: ASTRO-UST Önyükleme havuzu",
+  "locked-msg-e": "ASTRO-UST LP tokenleriniz faz 2 yatırım kısmının sonlanmasından sonra, 3 ay içerisinde lineer olarak kilidi açılacaktır.",
+  "locked-msg-f": "Herhangi bir pozisyonu kilitlemediniz.",
+  "locked-msg-g": "Faz 1'deki Kilitli LP Tokenlerim: The Lockdrop",
+  "locked-msg-h": "Lockdrop pozisyonlarınızın kilidi, yatırım yaptığınız gün belirlediğiniz tarihlerde açılacaktır."
 }
