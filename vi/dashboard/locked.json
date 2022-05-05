@@ -1,10 +1,10 @@
 {
-   "locked-msg-a":"Thanh khoản có thể mở khóa",
-   "locked-msg-b":"Có thể nhận tiền thưởng",
-   "locked-msg-c":"Hoàn thành mở khóa",
-   "locked-msg-d":"Token cung cấp thanh khoản đã mở khóa từ giai đoạn 2 của tôi: ASTRO-UST tự mình gây quỹ ",
-   "locked-msg-e":"Token cung cấp thanh khoản ASTRO-UST LP của bạn mở khóa tuyến tính quá 3 tháng sau khi kết thúc giai đoạn 2 trong khung thời gian gửi tiền.",
-   "locked-msg-f":"Bạn đã không khóa bất kì vị trí nào",
-   "locked-msg-g":"Token cung cấp thanh khoản đã mở khóa giai đoạn 1 của tôi 1: Lockdrop",
-   "locked-msg-h":"Vị thế lockdrop của bạn sẽ mở khóa vào những ngày đã ghi rõ khi bạn đã gửi khoản tiền của bạn."
+  "locked-msg-a": "Thanh khoản có thể mở khóa",
+  "locked-msg-b": "Có thể nhận tiền thưởng",
+  "locked-msg-c": "Hoàn thành mở khóa",
+  "locked-msg-d": "Token cung cấp thanh khoản đã mở khóa từ giai đoạn 2 của tôi: ASTRO-UST tự mình gây quỹ ",
+  "locked-msg-e": "Token cung cấp thanh khoản ASTRO-UST LP của bạn mở khóa tuyến tính quá 3 tháng sau khi kết thúc giai đoạn 2 trong khung thời gian gửi tiền.",
+  "locked-msg-f": "Bạn đã không khóa bất kì vị trí nào",
+  "locked-msg-g": "Token cung cấp thanh khoản đã mở khóa giai đoạn 1 của tôi 1: Lockdrop",
+  "locked-msg-h": "Vị thế lockdrop của bạn sẽ mở khóa vào những ngày đã ghi rõ khi bạn đã gửi khoản tiền của bạn."
 }
