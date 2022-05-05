@@ -1,10 +1,10 @@
 {
-  "locked-msg-a": "سيولة غير قابلة للفك",
-  "locked-msg-b": "مكافآت مستحقّة",
-  "locked-msg-c": "يتم فك التجميد بالكامل في",
-  "locked-msg-d": "شهادات تزويد السيولة المجمّدة الخاصة بي من المرحلة الثانية: ASTRO-UST Bootstrapping pool",
-  "locked-msg-e": "سيتم فك تجميد شهادات تزويد السيولة ASTRO-UST الخاصة بك تدريجبًا على مدة ثلاثة أشهر من بعد انتهاء مهلة إيداع المرحلة الثانية",
-  "locked-msg-f": "لم تقم بتجميد أي حصص",
-  "locked-msg-g": "شهادات تزويد السيولة المجمّدة الخاصة بي من المرحلة الأولى: The Lockdrop",
-  "locked-msg-h": "سيتم فك تجميد ودائعك من المرحلة الأولى في التواريخ التي حددتها عندما قمت بالإيداع"
+  "locked-msg-a": "Unlockable Liquidity",
+  "locked-msg-b": "Claimable Rewards",
+  "locked-msg-c": "Fully Unlocks On",
+  "locked-msg-d": "My Locked LP Tokens from Phase 2: ASTRO-UST Bootstrapping pool",
+  "locked-msg-e": "Your ASTRO-UST LP tokens unlock linearly over 3 months after the end of the phase 2 deposit window.",
+  "locked-msg-f": "You didn't lock any positions.",
+  "locked-msg-g": "My Locked LP Tokens from Phase 1 : The Lockdrop",
+  "locked-msg-h": "Your lockdrop positions will unlock on the dates you specified when you made your deposit."
 }
