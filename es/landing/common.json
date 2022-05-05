@@ -1,6 +1,5 @@
 {
   "error-return-home": "Volver a la página principal",
-
   "carousel-specs": "Especificaciones de Astroport",
   "carousel-desc-a": "Características",
   "carousel-desc-b": "Centrales",
@@ -11,7 +10,6 @@
   "carousel-link-a": "AUTÓNOMO",
   "carousel-link-b": "CÓDIGO-ABIERTO",
   "carousel-link-c": "DECENTRALIZADO",
-
   "collaborators-title-a": "Colab",
   "collaborators-title-b": "oradores",
   "collaborators-desc-a": "el equipo tiene experiencia extensiva trabajando con una amplia gama de proyectos basados en tokens para diseñar redes económicas racionales y balanceadas que promueven un crecimiento órganico y sustentable del ecosistema. Algunos de estos clientes son Axie Infinity (AXS), Synthetix (SNX), Aave (AAVE), Nervos (CKB) y Skale (SKL).",
@@ -20,11 +18,9 @@
   "collaborators-link-a": "The Delphi Labs",
   "collaborators-link-b": "IDEO CoLab",
   "collaborators-link-c": "Terraform Labs",
-
   "comingsoon-desc-a": "Nuestra Misión",
   "comingsoon-desc-b": "Astroport convierte estrategias complejas y avanzadas de yield farming en una tarea fácil y cómoda, para ofrecer un rendimiento optimizado y estable de criptoactivos a los usuarios.",
   "comingsoon-desc-c": "El primer producto de Astroport se centrará en estrategias de prestamos de criptoactivos (borrow) que el ecosistema de Terra dispone. El protocolo evolucionará y desarrollará nuevas estrategias de depósitos (vaults) a través de un sistema de gobierno comunitario de propuestas y otorgamientos de becas",
-
   "content-desc-a": "La siguiente evolución de DEXes",
   "content-desc-b": "Escrito desde cero en Rust, Astroport combina las mejores partes de seis años de desarrollo en el blockchain de Ethereum y lo implementa en Terra.",
   "content-desc-c": "Soporta dos tipos de liquidity pools (LP):",
@@ -38,7 +34,6 @@
   "content-link-a": "Iniciar app",
   "content-link-b": "Intercambiar ahora",
   "content-link-c": "Proveer liquidez",
-
   "footer-desc-a": "Astroport proporciona liquidez a los tokens de Terra desde todos los rincones de la galaxia.",
   "footer-desc-b": "Ingresar a la App",
   "footer-desc-c": "Astroport",
@@ -54,15 +49,12 @@
   "footer-link-h": "Medium",
   "footer-link-i": "Telegram",
   "footer-link-j": "Twitter",
-
   "hero-header": "Astroport. Trading del futuro",
   "hero-trading": "Comenzar",
-
   "immunefi-desc-a": "Consigue una recompensa de hasta $3.000.000 USD",
   "immunefi-desc-b": "si descubres bugs y vulnerabilidades en Astroport.",
   "immunefi-desc-c": "Reportar Bugs",
   "immunefi-desc-d": "con",
-
   "intro-title-a": "HYPER VELOCIDAD",
   "intro-title-b": "EXPLICADO",
   "intro-desc-a": "Flotando por sobre el",
@@ -73,9 +65,7 @@
   "intro-desc-f": "El mercado de Astroport es un bien público gobernado por su comunidad de",
   "intro-desc-g": "propietarios de tokens.",
   "intro-learn": "Aprender más",
-
   "livebanner-title": "Astro Drop está ahora en marcha",
-
   "navbar-about": "Acerca de",
   "navbar-support": "Soporte",
   "navbar-tutorials": "Tutoriales",
@@ -83,16 +73,13 @@
   "navbar-enter": "Entrar a la app",
   "navbar-launch": "Iniciar app",
   "navbar-terms": "Términos de uso",
-
   "soonmodal-title": "Próximamente",
-
   "tcbanner-header-begin": "Éste sitio web (el 'Sitio') es un agregador de contenido relacionado con el sistema de contratos inteligentes de Astroport en el ecosistema terra. Al ver, interactuar con, o al utilizar el Sitio, estás de acuerdo con los",
   "tcbanner-header-link": "Términos y Condiciones del Sitio",
   "tcbanner-header-end": ". Por favor verifica abajo para certificar que has leído, entendido, y estás de acuerdo con estar sujeto a los Términos y Condiciones en su totalidad.",
   "tcbanner-body": "He leído y estoy de acuerdo con estar sujeto a los Términos y Condiciones.",
   "tcbanner-link-agree": "Acepto",
   "tcbanner-link-disagree": "No acepto",
-
   "vaults-header": "Vaults",
   "vaults-title-a": "bLuna/bETH Anchor",
   "vaults-desc-a": "Genera recompensas (yield) al aprovechar la relación préstamo a valor (LTV) de Anchor Borrow para capturar la incentiva de tokens a los deudores (Borrowers), mientras protege automáticamente al usuario de riesgos de liquidación.",
