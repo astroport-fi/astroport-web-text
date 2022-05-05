@@ -1,9 +1,11 @@
 {
-  "unlock-title-a": "Unlock LP Tokens",
-  "unlock-title-b": "Withdrawable LP Tokens",
-  "unlock-msg-a": "You'll unlock",
-  "unlock-msg-b": "Once you’ve unlocked your LP tokens you can:",
-  "unlock-msg-c": "Withdraw your liquidity on the “Pools” page under “My Pools”",
-  "unlock-msg-d": "Or stake your LP tokens into the generator to continue receiving dual rewards",
-  "unlock-button-a": "Confirm Unlocking LP Tokens"
+  "unlock-title-a": "LP टोकन्स को अनलॉक करें",
+  "unlock-title-b": "विड्रॉ करने योग्य LP टोकन्स",
+
+  "unlock-msg-a": "आप अनलॉक करेंगे",
+  "unlock-msg-b": "अपने LP टोकन्स को अनलॉक कर लेने के बाद आप यह सब कर पाएंगे:",
+  "unlock-msg-c": "'मेरे पूल' के तहत 'पूल' पेज पर अपनी लिक्विडिटी को विड्रॉ करें",
+  "unlock-msg-d": "या लगातार दोहरे पुरस्कार प्राप्त करते रहने के लिए अपने LP टोकन्स को जेनरेटर में डालें",
+
+  "unlock-button-a": "LP टोकन्स को अनलॉक करने की पुष्टि करें"
 }
