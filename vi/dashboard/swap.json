@@ -1,14 +1,14 @@
 {
-  "swap-msg-a": "Tác Động Giá Cả",
-  "swap-msg-b": "Phí Nhà Cung Cấp Thanh Khoản",
-  "swap-msg-c": "Khả Năng Chịu Trượt Giá",
+  "swap-msg-a": "Price Impact",
+  "swap-msg-b": "Liquidity Provider Fee",
+  "swap-msg-c": "Slippage Tolerance",
   "swap-msg-d": "Route",
-  "swap-msg-e": "Tỷ Giá Hối Đoái",
-  "swap-msg-f": "Số tiền tối thiểu nhận được",
-  "swap-msg-g": "Số lượng bao gồm khả năng chịu trượt giá tối đa đã chọn",
-  "swap-msg-h": "Xác Nhận Chuyển đổi",
-  "swap-msg-i": "Đang chuyển đổi từ:",
-  "swap-msg-j": "Đang chuyển đổi đến:",
-  "swap-msg-k": "Hoàn Tất Chuyển Đổi Route",
-  "swap-msg-l": "Chuyển đổi Tokens"
+  "swap-msg-e": "Exchange Rate",
+  "swap-msg-f": "Minimum Received",
+  "swap-msg-g": "The amount includes the maximum slippage tolerance you selected",
+  "swap-msg-h": "Confirm Swap",
+  "swap-msg-i": "You are swapping from:",
+  "swap-msg-j": "You are swapping to:",
+  "swap-msg-k": "Complete Swap Route",
+  "swap-msg-l": "Swap Tokens"
 }
