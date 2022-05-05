@@ -1,11 +1,9 @@
 {
-  "unlock-title-a": "ปลดล็อกโทเคนพูลสภาพคล่อง",
-  "unlock-title-b": "โทเคนพูลสภาพคล่องที่สามารถถอนได้",
-
-  "unlock-msg-a": "คุณจะปลดล็อกล็อก",
-  "unlock-msg-b": "เมื่อคุณปลดล็อกโทเคนพูลสภาพคล่องแล้ว คุณสามารถ :",
-  "unlock-msg-c": "ถอนสภาพคล่องในหน้า “พูล” ที่อยู่ใต้ “พูลของฉัน"",
-  "unlock-msg-d": "หรือวางเดิมพันโทเคนพูลสภาพคล่องในเครื่องผลิตเพื่อได้รับรางวัลทั้งคู่ต่อไป ",
-
-  "unlock-button-a": "ยืนยันการปลดล็อกโทเคนพูลสภาพคล่อง "
+  "unlock-title-a": "Unlock LP Tokens",
+  "unlock-title-b": "Withdrawable LP Tokens",
+  "unlock-msg-a": "You'll unlock",
+  "unlock-msg-b": "Once you’ve unlocked your LP tokens you can:",
+  "unlock-msg-c": "Withdraw your liquidity on the “Pools” page under “My Pools”",
+  "unlock-msg-d": "Or stake your LP tokens into the generator to continue receiving dual rewards",
+  "unlock-button-a": "Confirm Unlocking LP Tokens"
 }
