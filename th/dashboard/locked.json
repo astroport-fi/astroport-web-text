@@ -1,10 +1,10 @@
 {
-  "locked-msg-a": "สภาพคล่องที่ปลดล้อคได้",
-  "locked-msg-b": "รางวัลที่สามารถอ้างสิทธิ์ได้",
-  "locked-msg-c": "เปิดใช้งานการปลดล้อคทั้งหมด",
-  "locked-msg-d": "เหรียญ LP ที่ถูกล็อกของฉันจากเฟส 2: ASTRO-UST บู๊ทสแตรปปิงพูล",
-  "locked-msg-e": "โทเคนบ่อสภาพคล่อง ASTRO-UST ของคุณทยอยปลดล้อคซึ่งนานกว่า 3 เดือนหลังจากจบการฝากโทเคนระยะที่ 2 ",
-  "locked-msg-f": "คุณไม่ได้ล็อกในตำแหน่งใดทั้งนั้น",
-  "locked-msg-g": "เหรียญ LP ที่ถูกล็อกของฉันจากเฟส 1: เดอะล็อกดรอป",
-  "locked-msg-h": "ตำแหน่ง lockdrop ของคุณจะถูกปลดล้อคในวันที่คุณระบุไว้ตอนที่คุณทำการฝาก"
+  "locked-msg-a": "Unlockable Liquidity",
+  "locked-msg-b": "Claimable Rewards",
+  "locked-msg-c": "Fully Unlocks On",
+  "locked-msg-d": "My Locked LP Tokens from Phase 2: ASTRO-UST Bootstrapping pool",
+  "locked-msg-e": "Your ASTRO-UST LP tokens unlock linearly over 3 months after the end of the phase 2 deposit window.",
+  "locked-msg-f": "You didn't lock any positions.",
+  "locked-msg-g": "My Locked LP Tokens from Phase 1 : The Lockdrop",
+  "locked-msg-h": "Your lockdrop positions will unlock on the dates you specified when you made your deposit."
 }
