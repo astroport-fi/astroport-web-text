@@ -1,10 +1,10 @@
 {
-  "locked-msg-a": "अनलॉक करने योग्य लिक्विडिटी",
-  "locked-msg-b": "दावा करने योग्य पुरस्कार",
-  "locked-msg-c": "पूरी तरह से अनलॉक होता है",
-  "locked-msg-d": "चरण 2 से मेरे लॉक किए गए LP टोकन्स: ASTRO-UST बूटस्ट्रैपिंग पूल",
-  "locked-msg-e": "आपके ASTRO-UST LP टोकन्स चरण 2 डिपॉजिट विंडो के अंत के 3 महीने बाद रैखिक रूप से अनलॉक होते हैं।",
-  "locked-msg-f": " आपने किसी भी पोजीशन को लॉक नहीं किया है।",
-  "locked-msg-g": "चरण 1 से मेरे लॉक किए गए LP टोकन्स: लॉकड्रॉप",
-  "locked-msg-h": " आपकी लॉकड्रॉप पोजीशन आपके द्वारा निर्दिष्ट तारीखों पर अनलॉक हो जाएगी जब आपने डिपॉजिट कि थी।"
+  "locked-msg-a": "Unlockable Liquidity",
+  "locked-msg-b": "Claimable Rewards",
+  "locked-msg-c": "Fully Unlocks On",
+  "locked-msg-d": "My Locked LP Tokens from Phase 2: ASTRO-UST Bootstrapping pool",
+  "locked-msg-e": "Your ASTRO-UST LP tokens unlock linearly over 3 months after the end of the phase 2 deposit window.",
+  "locked-msg-f": "You didn't lock any positions.",
+  "locked-msg-g": "My Locked LP Tokens from Phase 1 : The Lockdrop",
+  "locked-msg-h": "Your lockdrop positions will unlock on the dates you specified when you made your deposit."
 }
