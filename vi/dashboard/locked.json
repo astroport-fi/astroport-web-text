@@ -1,10 +1,10 @@
 {
-   "locked-msg-a":"Thanh khoản có thể mở khóa",
-   "locked-msg-b":"Có thể nhận tiền thưởng",
-   "locked-msg-c":"Hoàn thành mở khóa",
-   "locked-msg-d":"Token cung cấp thanh khoản đã mở khóa từ giai đoạn 2 của tôi: ASTRO-UST tự mình gây quỹ ",
-   "locked-msg-e":"Token cung cấp thanh khoản ASTRO-UST LP của bạn mở khóa tuyến tính quá 3 tháng sau khi kết thúc giai đoạn 2 trong khung thời gian gửi tiền.",
-   "locked-msg-f":"Bạn đã không khóa bất kì vị trí nào",
-   "locked-msg-g":"Token cung cấp thanh khoản đã mở khóa giai đoạn 1 của tôi 1: Lockdrop",
-   "locked-msg-h":"Vị thế lockdrop của bạn sẽ mở khóa vào những ngày đã ghi rõ khi bạn đã gửi khoản tiền của bạn."
+  "locked-msg-a": "Unlockable Liquidity",
+  "locked-msg-b": "Claimable Rewards",
+  "locked-msg-c": "Fully Unlocks On",
+  "locked-msg-d": "My Locked LP Tokens from Phase 2: ASTRO-UST Bootstrapping pool",
+  "locked-msg-e": "Your ASTRO-UST LP tokens unlock linearly over 3 months after the end of the phase 2 deposit window.",
+  "locked-msg-f": "You didn't lock any positions.",
+  "locked-msg-g": "My Locked LP Tokens from Phase 1 : The Lockdrop",
+  "locked-msg-h": "Your lockdrop positions will unlock on the dates you specified when you made your deposit."
 }
