@@ -1,3 +1,19 @@
 files:
-  - source: /en/**/*.json
-    translation: /%two_letters_code%/**/*.json
+  - source: /en/landing/common.json
+    translation: /%two_letters_code%/landing/common.json
+  - source: /en/dashboard/common.json
+    translation: /%two_letters_code%/dashboard/common.json
+  - source: /en/dashboard/errors.json
+    translation: /%two_letters_code%/dashboard/errors.json
+  - source: /en/dashboard/governance.json
+    translation: /%two_letters_code%/dashboard/governance.json
+  - source: /en/dashboard/locked.json
+    translation: /%two_letters_code%/dashboard/locked.json
+  - source: /en/dashboard/notifications.json
+    translation: /%two_letters_code%/dashboard/notifications.json
+  - source: /en/dashboard/pool.json
+    translation: /%two_letters_code%/dashboard/pool.json
+  - source: /en/dashboard/swap.json
+    translation: /%two_letters_code%/dashboard/swap.json
+  - source: /en/dashboard/unlock.json
+    translation: /%two_letters_code%/dashboard/unlock.json
