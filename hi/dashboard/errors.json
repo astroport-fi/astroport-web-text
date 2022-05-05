@@ -1,6 +1,6 @@
 {
-  "errors-msg-a ": "विफल",
-  "errors-msg-b ": "फिर से प्रयास करें",
+  "errors-msg-a": "Failed",
+  "errors-msg-b": "Try Again",
   "errors-msg-c": "होम पेज पर लौटें",
   "errors-msg-d": "प्राप्त करने के लिए टोकन की अवैध राशि।",
   "errors-msg-e": "दोनों राशियाँ 0 से अधिक होनी चाहिए",
@@ -9,7 +9,7 @@
   "errors-msg-h": "डेटा लोड करने में त्रुटि",
   "errors-msg-i": " यह एक वैल्यू के साथ प्रोवाइडर के अंतर्गत होना चाहिए",
   "errors-msg-j": "फीस का अनुमान लगाने में त्रुटि",
-  "errors-msg-k":" कोई त्रुटि हुई है",
+  "errors-msg-k": " कोई त्रुटि हुई है",
   "errors-msg-l": "{{token1Symbol}} से {{token2Symbol}} में स्वैप करना विफल",
   "errors-msg-m": "इनाम का दावा करने में विफल",
   "errors-msg-n": "LP टोकन अनलॉक करने में विफल",
