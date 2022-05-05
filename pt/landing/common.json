@@ -1,6 +1,5 @@
 {
   "error-return-home": "Retornar à página inicial",
-
   "carousel-specs": "Especificações do Astroport",
   "carousel-desc-a": "Núcleo",
   "carousel-desc-b": "Recursos",
@@ -11,20 +10,17 @@
   "carousel-link-a": "AUTÔNOMO",
   "carousel-link-b": "CÓDIGO FONTE ABERTO",
   "carousel-link-c": "DESCENTRALIZADO",
-
-  "colaboradores-título-a": " Colab",
-  "colaborators-title-b": "oradores",
+  "collaborators-title-a": "Collab",
+  "collaborators-title-b": "orators",
   "collaborators-desc-a": "a equipe tem uma vasta experiência trabalhando com uma ampla gama de projetos baseados em tokens para projetar economias de rede racionais e equilibradas que promovam o crescimento orgânico do ecossistema. Alguns dos clientes incluem Axie Infinity (AXS), Synthetix (SNX), Aave (AAVE), Nervos (CKB) e Skale (SKL).",
   "collaborators-desc-b": "investe em startups digitais distribuídas em estágio inicial e co-cria com elas a fim de lançar novos produtos e protocolos. Alguns dos parceiros incluem Handshake (HNS), PoolTogether (POOL), Instadapp (INST), Near (NEAR ) e Optimism.",
   "collaborators-desc-c": "incuba protocolos fundamentais na blockchain do Terra, incluindo Mirror (MIR), Anchor (ANC) e Chai.",
-  "colaborators-link-a": "The Delphi Labs",
-  "colaborators-link-b": "IDEO CoLab",
-  "colaborators-link-c": "Terraform Labs",
-
+  "collaborators-link-a": "The Delphi Labs",
+  "collaborators-link-b": "IDEO CoLab",
+  "collaborators-link-c": "Terraform Labs",
   "comingsoon-desc-a": "Nossa Missão",
   "comingsoon-desc-b": "Astroport remove a complexidade das estratégias avançadas de mineiração de liquidez para fornecer rendimento otimizado e sustentável para os usuários",
   "comingsoon-desc-c": "O primeiro produto da Astroport será focado em estratégias de empréstimo disponíveis no ecossistema Terra. O protocolo evoluirá e desenvolverá novas estratégias de cofre por meio de propostas de governança da comunidade e concessões ao longo do tempo",
-
   "content-desc-a": "A próxima evolução em DEXes",
   "content-desc-b": "Escrito do zero em Rust, Astroport combina as melhores peças de seis anos de desenvolvimento no blockchain Ethereum e o entrega no Terra.",
   "content-desc-c": "Suporta dois tipos de reserva de liquidez:",
@@ -38,7 +34,6 @@
   "content-link-a": "Iniciar aplicativo",
   "content-link-b": "Negocie agora",
   "content-link-c": "Fornecer liquidez",
-
   "footer-desc-a": "Astroport traz liquidez para tokens Terra de todas as partes da galáxia.",
   "footer-desc-b": "Entrar no aplicativo",
   "footer-desc-c": "Astroport",
@@ -54,15 +49,12 @@
   "footer-link-h": "Medium",
   "footer-link-i": "Telegram",
   "footer-link-j": "Twitter",
-
   "hero-header": "Astroport. O futuro do comércio",
   "hero-trading": "Começar a negociar",
-
-  "imunefi-desc-a": "Receba até $ 3.000.000",
-  "imunefi-desc-b": "se você descobrir erros e vulnerabilidades no Astroport.",
-  "imunefi-desc-c": "Relatar erro",
-  "imunefi-desc-d": "com",
-
+  "immunefi-desc-a": "Get paid up to $3,000,000",
+  "immunefi-desc-b": "if you discover bugs and vulnerabilities on Astroport.",
+  "immunefi-desc-c": "Report Bug",
+  "immunefi-desc-d": "with",
   "intro-title-a": "HIPER VELOCIDADE",
   "intro-title-b": "EXPLICADO",
   "intro-desc-a": "Pairando acima do",
@@ -73,9 +65,7 @@
   "intro-desc-f": "O mercado da Astroport é um bem público, governado por sua comunidade de",
   "intro-desc-g": "portadores de token.",
   "intro-learn": "Saiba mais",
-
   "livebanner-title": "Astro Drop está no ar",
-
   "navbar-about": "Sobre",
   "navbar-support": "Suporte",
   "navbar-tutorials": "Tutoriais",
@@ -83,18 +73,15 @@
   "navbar-enter": "Entrar no aplicativo",
   "navbar-launch": "Iniciar aplicativo",
   "navbar-terms": "Termos de uso",
-
   "soonmodal-title": "Em breve",
-
   "tcbanner-header-begin": "Este site (o 'Site') é um agregador de informações relacionadas a um sistema de contrato inteligente do Astroport no Terra. Ao visualizar, interagir ou usar o Site, você concorda com ",
   "tcbanner-header-link": "os Termos e Condições do Site",
   "tcbanner-header-end": ". Por favor, verifique abaixo para certificar que você leu, entendeu e concorda em cumprir os Termos e Condições em sua totalidade.",
   "tcbanner-body": "Li e concordo com os Termos e Condições.",
   "tcbanner-link-agree": "Concordo",
   "tcbanner-link-disagree": "Eu discordo",
-
-  "cofres-header": "Cofres",
-  "cofres-título-a": "bLuna/bETH Anchor",
+  "vaults-header": "Vaults",
+  "vaults-title-a": "bLuna/bETH Anchor",
   "vaults-desc-a": "Gera rendimento maximizando a relação empréstimo-valor (LTV) da Anchor Borrow para capturar tokens de incentivo de quem pedir empréstimos enquanto protege automaticamente o usuário do risco de liquidação.",
   "vaults-status-a": "Em breve",
   "vaults-title-b": "UST Mirror",
