@@ -1,14 +1,14 @@
 {
-  "swap-msg-a": "मूल्य का प्रभाव",
-  "swap-msg-b": "लिक्विडिटी प्रदाता शुल्क",
-  "swap-msg-c": "स्लिपेज टॉलरेंस",
-  "swap-msg-d": "मार्ग",
-  "swap-msg-e": "विनिमय दर",
-  "swap-msg-f": "न्यूनतम प्राप्त",
-  "swap-msg-g": "राशि में आपके द्वारा चुनी गई अधिकतम स्लिपेज टॉलरेंस शामिल है",
-  "swap-msg-h": "स्वैप की पुष्टि करें",
-  "swap-msg-i": "आप इससे स्वैप कर रहे हैं:",
-  "swap-msg-j": " आप इस पर स्वैप कर रहे हैं:",
-  "swap-msg-k": " पूर्ण स्वैप मार्ग",
-  "swap-msg-l": " स्वैप टोकन्स"
+  "swap-msg-a": "Price Impact",
+  "swap-msg-b": "Liquidity Provider Fee",
+  "swap-msg-c": "Slippage Tolerance",
+  "swap-msg-d": "Route",
+  "swap-msg-e": "Exchange Rate",
+  "swap-msg-f": "Minimum Received",
+  "swap-msg-g": "The amount includes the maximum slippage tolerance you selected",
+  "swap-msg-h": "Confirm Swap",
+  "swap-msg-i": "You are swapping from:",
+  "swap-msg-j": "You are swapping to:",
+  "swap-msg-k": "Complete Swap Route",
+  "swap-msg-l": "Swap Tokens"
 }
