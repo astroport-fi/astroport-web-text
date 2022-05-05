@@ -1,11 +1,9 @@
 {
-  "unlock-title-a": "解锁 LP 代币",
-  "unlock-title-b": "可领取的 LP 代币",
-
-  "unlock-msg-a": "您将解锁",
-  "unlock-msg-b": " LP 代币解锁后您可以 :",
-  "unlock-msg-c": "在界面 “资金池” 找到“我的资金池”来提取您的代币",
-  "unlock-msg-d": "或者将您的LP 代币存入（质押） generator 来持续获得双重收益",
-
-  "unlock-button-a": "确认解锁 LP 代币"
+  "unlock-title-a": "Unlock LP Tokens",
+  "unlock-title-b": "Withdrawable LP Tokens",
+  "unlock-msg-a": "You'll unlock",
+  "unlock-msg-b": "Once you’ve unlocked your LP tokens you can:",
+  "unlock-msg-c": "Withdraw your liquidity on the “Pools” page under “My Pools”",
+  "unlock-msg-d": "Or stake your LP tokens into the generator to continue receiving dual rewards",
+  "unlock-button-a": "Confirm Unlocking LP Tokens"
 }
